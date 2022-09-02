@@ -1,5 +1,8 @@
 # GitHub Profile of [TJ](https://github.com/vTajae)
+
 <br><br>
+
+<div>
 <a href="https://www.linkedin.com/in/tajaejohnson/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
@@ -12,27 +15,25 @@
 <a href="https://www.youtube.com/">
   <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
-
-<br/>
+</div>
 
 ![](https://github.com/vTajae/vTajae/blob/main/header_.png)
+<br>
 
-## <p align="center"><h4 align="center"><samp> A Cyber Security Influenced Full Stack Developer & An Open Source Contributor  </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> The Cyber Security Influenced Full Stack Developer & An Open Source Contributor </samp></h4></p>
 
-<br/>
 <div>
 <br>
+
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about the Terminal.
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 
-<br>
 </div>
 
-
 ##
-<h3><b><samp>Skills and Languages</samp></b></h3>
 
+<h3><b><samp>Skills and Languages</samp></b></h3>
 
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -61,7 +62,6 @@
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
-
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
@@ -70,7 +70,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-  
 <span>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
@@ -81,51 +80,44 @@
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>
-<hr> 
-  
-<h3><b><samp>Check out my Repositories</samp></b></h3>
-
-  
-
-
-  
-
-
-  
-
-
-  
-
 
 <br/>
- 
  <hr>
   
 ### Github Stats
-  <br>
-<p align="center">
+
+<div align="center">
   <a href="https://github.com/vTajae"><span>
+
+<br><br>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vTajae&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+<br><br>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=vTajae&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <br><br>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vTajae&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vTajae&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+  
+  <br>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vTajae&theme=dracula" />
     </span></a>
-</p>
+</div>
 
-  
 <br>
   
 ### 🏆 GitHub Profile Trophy:
-<p align="center">
+<div align="center">
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=vTajae&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
-</p>
+</div>
 
-<p align="center">
-<a href="https://profile.codersrank.io/user/vTajae"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=vTajae&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
-</p>
+<div align="center">
+<a href="https://profile.codersrank.io/user/vTajae">
+
+<img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=vTajae&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
+
+
+</div>
 
 <br>  
   
