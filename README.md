@@ -3,16 +3,16 @@
 <br><br>
 
 <div align="center">
-<a target="_blank" href="https://www.linkedin.com/in/tajaejohnson/">
+<a href="https://www.linkedin.com/in/tajaejohnson/" target="_blank">
   <img align="center" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="https://github.com/vTajae">
+<a href="https://github.com/vTajae" target="_blank">
   <img align="center" alt="akd's Github" width="100px" height="27px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.instagram.com/pwn.code/">
+<a href="https://www.instagram.com/pwn.code/" target="_blank">
   <img align="center" alt="akd's Instagram" width="100px" height="27px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.youtube.com/">
+<a href="https://www.youtube.com/" target="_blank">
   <img align="center" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 </div>
