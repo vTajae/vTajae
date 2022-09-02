@@ -33,13 +33,12 @@
 
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
  <hr>
 
 ##
 
-<h3><b><samp>Skills and Languages</samp></b></h3>
+<h3 align="center"><b><samp>Skills and Languages</samp></b></h3>
+<br>
 
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -51,7 +50,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
-<span>
+<div align="center">
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/c.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
@@ -63,10 +62,14 @@
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
-  </span>
+  </div>
+
+  <br>
     
+
 ##
-<h3><b><samp>Tools and Platform</samp></b></h3>
+<h3 align="center"><b><samp>Tools and Platform</samp></b></h3>
+
 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
@@ -76,7 +79,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-<span>
+<div align="center">
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
@@ -85,38 +88,27 @@
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
-</span>
+</div>
 
 <br/>
  <hr>
   
-### Github Stats
+##
+
+<h3><b>GitHub Stats</b></h3>
 
 <div align="center">
   <a href="https://github.com/vTajae"><span>
 
 <br>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vTajae&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vTajae&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 <br><br>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=vTajae&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=vTajae&count_private=true&show_icons=true&theme=chartreuse-dark&&include_all_commits=true"/>
     <br><br>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vTajae&theme=radical" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vTajae&theme=chartreuse-dark" />
   
-  <br>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vTajae&theme=dracula" />
-    </span></a>
+
 </div>
-
-<br>
-  
-### 🏆 GitHub Profile Trophy:
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=vTajae&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</div>
-
 
 <br>  
   
