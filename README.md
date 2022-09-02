@@ -50,7 +50,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
-<div align="center">
+<div align="center" style="width: 100%">
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/c.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
@@ -79,7 +79,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-<div align="center">
+<div align="center"  style="width: 100%">
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
