@@ -40,6 +40,9 @@
 <h3 align="center"><b><samp>Skills and Languages</samp></b></h3>
 <br>
 
+
+<div align="center">
+
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -50,7 +53,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
-<div align="center" style="width: 100%">
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/c.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
@@ -70,6 +72,7 @@
 ##
 <h3 align="center"><b><samp>Tools and Platform</samp></b></h3>
 
+<div align="center">
 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
@@ -79,7 +82,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-<div align="center"  style="width: 100%">
+
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
 <img src="https://github.com/vTajae/vTajae/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
