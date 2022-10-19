@@ -21,7 +21,7 @@
 <br>
 
 
-## <p align="center"><h4 align="center"><samp> The Cyber Security Influenced Full Stack Developer & An Open Source Contributor </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> Cyber Security Influenced Full Stack Developer & Open Source Contributor </samp></h4></p>
 
 <div>
 <br>
