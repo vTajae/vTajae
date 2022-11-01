@@ -5,12 +5,7 @@
 <a href="https://www.linkedin.com/in/tajaejohnson/">
   <img align="center" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/">
-  <img align="center" alt="akd's Instagram" width="100px" height="27px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/">
-  <img align="center" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
+
 </div>
 
 
