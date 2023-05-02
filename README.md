@@ -13,7 +13,7 @@
 <br>
 
 
-## <p align="center"><h4 align="center"><samp> Cyber Security Influenced Full Stack Developer & Open Source Contributor </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> Security && Software Engineer </samp></h4></p>
 
 <div>
 <br>
