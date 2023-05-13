@@ -18,9 +18,9 @@
 <div>
 <br>
 
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about the Terminal.
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
+- 💼 <samp>I am currently seeking new professional opportunities where I can leverage my skills to deliver innovative solutions and be duly compensated for my expertise.
+- 💬 <samp>Feel free to engage me in discussions regarding assembly language, as it is an area of intrest for me.
+- 🤔 <samp>I am actively seeking guidance on how to enhance my proficiency in Competitive Programming and achieve exceptional results.
 
 </div>
 
