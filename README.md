@@ -94,6 +94,10 @@
 <div align="center">
   <a href="https://github.com/vTajae"><span>
 </div>
+    
+    <br>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vTajae&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+<br><br>
 
 <br>  
   
