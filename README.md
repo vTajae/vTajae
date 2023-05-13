@@ -93,15 +93,6 @@
 
 <div align="center">
   <a href="https://github.com/vTajae"><span>
-
-<br>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vTajae&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-<br><br>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=vTajae&count_private=true&show_icons=true&theme=chartreuse-dark&&include_all_commits=true"/>
-    <br><br>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vTajae&theme=chartreuse-dark" />
-  
-
 </div>
 
 <br>  
