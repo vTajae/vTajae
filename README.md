@@ -19,11 +19,11 @@
 
 <!-- Quick info section -->
 <div align="center" style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6;">
-  <ul style="list-style-type: none; padding: 0;">
+  <ol style="list-style-type: none; padding: 0; ">
     <li>💼 Seeking opportunities to leverage my skills for innovative solutions and fair compensation.</li>
     <li>💬 Open to discussions about assembly language, one of my areas of interest.</li>
     <li>🤔 Looking for advice on improving my competitive programming skills.</li>
-  </ul>
+  </ol>
 </div>
 
 <br>
