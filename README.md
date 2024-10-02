@@ -9,6 +9,9 @@
 <div align="center" style="font-family: Arial, sans-serif; color: #4CAF50; font-size: 22px; font-weight: bold; margin-top: 20px;">
   "No matter how hard life gets, I'll always find a way to commit."
 </div>
+<div align="center" style="font-family: Arial, sans-serif; color: #4CAF50; font-size: 22px; font-weight: bold; margin-top: 20px;">
+  "Coding saves lives."
+</div>
 
 <br>
 
