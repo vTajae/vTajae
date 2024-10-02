@@ -64,19 +64,5 @@
 
 <br>
 
-<!-- GitHub Stats Section -->
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #333;">
-  <b>GitHub Stats</b>
-</h3>
 
-<div align="center">
-  <!-- Adjusted layout for stats to fit better -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vTajae&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=chartreuse-dark" alt="GitHub Stats">
-</div>
 
-<br>
-
-<!-- Snake animation section -->
-<div align="center">
-  <img src="https://github.com/vTajae/vTajae/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</div>
