@@ -4,15 +4,15 @@
 <div style="font-family: Helvetica, Arial, sans-serif; font-size: 20px; font-weight: bold; margin: 20px 0; text-align: center; line-height: 1.6;">
   <p style="margin: 0; padding: 0;">"No matter how hard life gets, I can commit."</p>
   <p style="margin: 0; padding: 0;">"Coding saves lives."</p>
-  <p style="margin: 10px 0 0 0; padding: 0; font-size: 18px;">– TJ</p>
+<p style="margin: 10px 0 0 0; padding: 0; font-size: 18px; font-style: italic;">– TJ</p>
 </div>
 
   <h2 style="font-family: Arial, sans-serif; font-size: 28px; margin: 20px 0;">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /> Let's connect!
+         <a href="https://www.linkedin.com/in/tajaejohnson/" style="text-decoration: none;">
+    <img alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   </h2>
-   <a href="https://www.linkedin.com/in/tajaejohnson/">
-          <img alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
 
   <div align="left" style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6; margin: 20px;">
     <ul style="list-style-type: none; padding: 0;">
