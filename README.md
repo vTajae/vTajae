@@ -7,16 +7,6 @@
 <p style="margin: 10px 0 0 0; padding: 0; font-size: 18px; font-style: italic;">– TJ</p>
 </div>
 
-  <h2 style="font-family: Arial, sans-serif; font-size: 28px; margin: 20px 0;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /> Let's connect!
-         <a href="https://www.linkedin.com/in/kn0x/" style="text-decoration: none;">
-    <img alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-         <a href="https://leetcode.com/u/vTajae/" style="text-decoration: none;">
-    <img alt="LeetCode" width="100px" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  </h2>
-
   <div align="left" style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6; margin: 20px;">
     <ul style="list-style-type: none; padding: 0;">
       <li>👨🏻‍💻 Full-stack engineer — TypeScript/React on the front, Node.js &amp; Python (FastAPI) on the back — with GIAC GSEC/GFACT security certifications.</li>
