@@ -35,23 +35,3 @@ I stress-test model-generated ML and LLM code for correctness, edge cases, and f
 <p>
   <img alt="Core stack" src="https://skillicons.dev/icons?i=ts,py,rust,java,react,remix,nextjs,nodejs,fastapi,spring,graphql,postgres,mongodb,pytorch,cloudflare,docker,aws,githubactions,linux&perline=10" />
 </p>
-
-## Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 10 October 2026 - To: 17 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vTajae/vTajae/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vTajae/vTajae/output/github-snake.svg" />
-  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/vTajae/vTajae/output/github-snake.svg" />
-</picture>
