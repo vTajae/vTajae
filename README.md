@@ -1,5 +1,3 @@
-# Hi, I'm TJ
-
 **Software engineer working where frontier AI evaluation meets full-stack product engineering.**
 
 I stress-test model-generated ML and LLM code for correctness, edge cases, and failure modes, and I build AI-enabled applications on edge and Python stacks.
